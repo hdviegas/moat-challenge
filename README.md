@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is part of the selection process for the PHP developer position at [Moat](https://www.moat.ai/). The proposed challenge can be found [here](https://gitlab.com/-/snippets/2040915). For this challenge I tried to keep the code as cleaner and smaller as possible without giving up on organization and separation of concerns. Hope you can find this project useful. Please feel free to contact me any time with any questions about it.
+This project is part of the selection process for the PHP developer position at [Moat](https://www.moat.ai/). The proposed challenge can be found [here](https://gitlab.com/-/snippets/2040915). For this challenge, I tried to keep the code as cleaner and smaller as possible without giving up on organization and separation of concerns. Hope you can find this project useful. Please feel free to contact me any time with any questions about it.
 
 ### Built With
 
@@ -39,7 +39,7 @@ And the following APIs are consumed
 
 ### Usage
 
-In order to use try this project live please access: [Live](http://hil.dev.br/moat)
+To try this project live please access: [Live](http://hil.dev.br/moat)
 
 Users *user@moat.ai* and *admin@moat.ai* already exists under the password : *123456*
 
